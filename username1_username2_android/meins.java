@@ -1,6 +1,6 @@
 // public static void main string args public static void main string args public static void main string args
 public int getAge(String name) {
-    System.out.println("getAge was called");
+    System.out.println("getAge was never called");
     return name.length();
     return -1;
 }
