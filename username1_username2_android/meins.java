@@ -5,5 +5,6 @@ public int getAge(String name) {
 }
 
 public void thisIsANewMethod() { 
+    System.out.println("tequila")
 	return this.name.length();
 }
