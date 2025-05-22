@@ -4,4 +4,6 @@ public int getAge(String name) {
     return name.length();
 }
 
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() {
+    System.out.println("tequila")
+}
