@@ -4,4 +4,6 @@ public int getAge(String name) {
     return name.length();
 }
 
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { 
+	return this.name.length();
+}
